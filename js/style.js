@@ -26,7 +26,7 @@ const STYLE_CONFIG = {
     sections: {
         // Navbar styling
         navbar: {
-            backgroundColor: '#212529',
+            backgroundColor: '#0c4dc0c4',
             textColor: '#ffffff',
             font: "'Montserrat', sans-serif",
             fontSize: '0.85rem'
@@ -40,7 +40,7 @@ const STYLE_CONFIG = {
             headingFontSize: '3.5rem',
             subheadingFont: "'Montserrat', sans-serif",
             subheadingFontSize: '1.5rem',
-            subheadingColor: '#ffc800',
+            subheadingColor: '#ffffffff',
             buttonBackgroundColor: '#ffc800',
             buttonTextColor: '#212529',
             backgroundImage: './assets/img/bg.webp',
