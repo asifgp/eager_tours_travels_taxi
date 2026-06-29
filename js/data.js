@@ -3,7 +3,7 @@ const APP_DATA = {
 
     // Navigation items
     navbar: {
-        brand: 'Eagle Car Rentals',
+        brand: 'Eagle Taxi Services',
         nav: [
             { label: 'Services', href: '#services' },
             { label: 'Fleet', href: '#fleet' },
@@ -16,7 +16,7 @@ const APP_DATA = {
     // Masthead section
     masthead: {
         subheading: 'Reliable Cars • Local Drivers • Great Rates',
-        heading: 'Explore Kashmir By Road With Eagle',
+        heading: 'Explore Kashmir With Us',
         buttonText: 'View Fleet',
         buttonHref: '#fleet',
         bgImg: './assets/img/bg.webp'
